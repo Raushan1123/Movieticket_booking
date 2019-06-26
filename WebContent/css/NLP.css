@@ -1,0 +1,19 @@
+@CHARSET "ISO-8859-1";
+td{
+color:blue;
+font-size:20px;
+font-style: italic;
+}
+body{
+background-color: aqua;
+background-image: url("../image/abc.jpg");
+background-repeat: no-repeat;
+background-size: 100%;
+}
+table{
+border: 2px solid;
+border-color: blue;
+}
+#n1{
+color:yellow;
+}
